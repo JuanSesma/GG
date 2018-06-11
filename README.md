@@ -1,0 +1,2 @@
+# GG
+Golang repository
